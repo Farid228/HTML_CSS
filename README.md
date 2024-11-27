@@ -39,6 +39,6 @@ To run this website locally:
 
 ## Contact
 If you have any feedback or suggestions, feel free to reach out:
-- **Phone**: 0504241015
-- **Address**: USSR Küçəsi 9, Baku, Azerbaijan
-- **Email**: [faralvlmochi@gmail.com](mailto:faralvlmochi@gmail.com)
+- **Phone**: +37122457401
+- **Address**: Raunas Iela 44, Riga, Latvia
+- **Email**: [abdullayevfarid.2003@gmail.com](mailto:abdullayevfarid.2003@gmail.com)
