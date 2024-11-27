@@ -8,6 +8,7 @@ Welcome to the repository for **My Personal Website**! This website is a showcas
 - **About Me**: A brief overview of who I am and what I do, with links to my profiles.
 - **My Hobbies**: A section highlighting my favorite activities and interests.
 - **Statistics**: A visual representation of how I spend my time, using a bar chart.
+- **Daily Schedule**: A detailed table showcasing my daily routine and activities.
 - **Feedback Form**: A simple form where visitors can share their thoughts about the website.
 - **Contact Section**: My contact details, including phone, email, and address, for easy communication.
 
