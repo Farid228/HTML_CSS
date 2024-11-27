@@ -20,19 +20,19 @@ Welcome to the repository for **My Personal Website**! This website is a showcas
 To run this website locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/johnyzade/farasite
+   git clone https://github.com/Farid228/HTML_CSS
    ```
 2. Navigate to the project folder:
    ```bash
-   cd farasite
+   cd HTML_CSS
    ```
-3. Open the `nolife.html` file in your favorite browser to view the website.
+3. Open the `HTML.html` file in your favorite browser to view the website.
 
 ## Project Structure
 ```
 .
-├── nolife.html       # The main HTML file
-├── nolife.css        # The CSS file for styling
+├── HTML.html       # The main HTML file
+├── CSS.css        # The CSS file for styling
 ├── thankyou.html     # Thank you page for form submissions
 └── README.md         # Project documentation
 ```
